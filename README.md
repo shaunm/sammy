@@ -15,7 +15,7 @@ Finally, run `yarn dev` to see magic happen 🎉
 
 Go edit a page in your `/pages` directory to get started 👍
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button?paid=true)](https://deploy.workers.cloudflare.com/?url=https://github.com/shaunm/flareact-mui&paid=true)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button?paid=true)](https://deploy.workers.cloudflare.com/?url=https://github.com/shaunm/sammy&paid=true)
 
 
 
